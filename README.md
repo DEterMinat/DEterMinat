@@ -1,14 +1,12 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Tanakit Siriteerapan
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ...
 ============================================================================================================================================
 
 Studen
 ------
 
-Hello, my name is Diw. I'm studying IT. I Like Database (Sci,Engineering) | C Lang | C++ | C# | Python | SQL
+Hello, my name is... I'm studying IT. I Like Database (Sci,Engineering) | C Lang | C++ | C# | Python | SQL
 
 * 🌍  I'm based in Chonburi,Thailand
-* 🖥️  See my portfolio at [My Resume](http://resume-diwjiw.onrender.com/)
-* ✉️  You can contact me at [tanakit.sirite@live.ku.th](mailto:tanakit.sirite@live.ku.th)
 * 🧠  I'm learning Data Sci , Data Engineering
 * 🤝  I'm open to collaborating on everyone
 
