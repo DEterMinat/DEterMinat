@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Studen
 ------
 
-Hello, my name is... I'm studying IT. I Like Database (Sci,Engineering) | C Lang | C++ | C# | Python | SQL
+Hello, my name is... I'm studying IT. I Like Data Engineering
 
 * 🌍  I'm based in Chonburi,Thailand
 * 🧠  I'm learning Data Sci , Data Engineering
