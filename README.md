@@ -1,31 +1,31 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is ...
-============================================================================================================================================
+<h1 align="center">Hello!, I'm Tanakit [Diwjiw]</h1> 
 
-Studen
-------
-
-Hello, my name is... I'm studying IT. I Like Data Engineering
-
-* 🌍  I'm based in Chonburi,Thailand
-* 🧠  I'm learning Data Sci , Data Engineering
-* 🤝  I'm open to collaborating on everyone
-
-### Skills
+<p align="center"><img src="https://media1.tenor.com/m/H8IwolfgaDQAAAAC/made-in-heaven.gif" width="450" height="250" alt="gif"/></p>
 
 
-<p align="left">
-<a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/cplusplus-colored.svg" width="36" height="36" alt="C++" /></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" /></a><a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a><a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a>
+<p align="center">   You are stronger  </p>
+
+🔭 About me
+----------------------------
+
+* 🚀 𝙄’𝙢 𝙡𝙤𝙤𝙠𝙞𝙣𝙜 𝙛𝙤𝙧 𝙝𝙚𝙡𝙥 𝙬𝙞𝙩𝙝 𝙀𝙭𝙥𝙡𝙤𝙧𝙞𝙣𝙜 𝙉𝙚𝙬 𝙏𝙚𝙘𝙝𝙣𝙤𝙡𝙤𝙜𝙞𝙚𝙨.
+
+*  ✉️  𝙔𝙤𝙪 𝙘𝙖𝙣 𝙘𝙤𝙣𝙩𝙖𝙘𝙩 𝙢𝙚 𝙖𝙩 tanakitsiriteerapan@𝙜𝙢𝙖𝙞𝙡.𝙘𝙤𝙢
+
+* 🧪 𝙄’𝙢 𝙘𝙪𝙧𝙧𝙚𝙣𝙩𝙡𝙮 𝙡𝙚𝙖𝙧𝙣𝙞𝙣𝙜 𝙢𝙤𝙧𝙚 𝙖𝙗𝙤𝙪𝙩 Data Engineering 🎧       
+
+
+⭐️ My Skills
+----------------------------
+
+[![My Skills](https://skillicons.dev/icons?i=aws,azure,py,blender,c,docker,flask,git,github,postgres,postman,mysql,aiscript,anaconda&perline=7)](https://skillicons.dev)
+ 
+💫 My GitHub Stats 
+----------------------------
+
+<p align="center">
+  <a href="https://github.com/DEterMinat"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEterMinat&layout=compact&langs_count=10&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=181824""/></a>
 </p>
 
-
-### Socials
-
-<p align="left"> <a href="https://www.github.com/DEterMinat" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/tanakit.sirite/?next=%2F&hl=id" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.linkedin.com/in/tanakit-siriteerapan-271530284/" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /> </picture> </a></p>
-
-### Badges
-
-<b>My GitHub Stats</b>
-
-<a href="http://www.github.com/DEterMinat"><img src="https://github-readme-stats.vercel.app/api?username=DEterMinat&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="DEterMinat's GitHub stats" /></a>
-
-<a href="https://github.com/DEterMinat" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEterMinat&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+<h1></h1>
+<p align="center"><a>𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙜𝙞𝙩𝙝𝙪𝙗.🫰🏻<a></p>
