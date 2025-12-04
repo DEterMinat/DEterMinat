@@ -1,6 +1,6 @@
 <h1 align="center">Hello!, I'm Tanakit [Diwjiw]</h1> 
 
-<p align="center"><img src="https://media1.tenor.com/m/H8IwolfgaDQAAAAC/made-in-heaven.gif" width="450" height="250" alt="gif"/></p>
+<p align="center"><img src="[https://media1.tenor.com/m/H8IwolfgaDQAAAAC/made-in-heaven.gif](https://media1.tenor.com/m/qd3miPXfL5QAAAAC/warhammer-40k.gif)" width="450" height="250" alt="gif"/></p>
 
 
 <p align="center">   You are stronger  </p>
