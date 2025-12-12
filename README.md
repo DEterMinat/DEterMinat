@@ -20,12 +20,17 @@
 
 [![My Skills](https://skillicons.dev/icons?i=aws,azure,py,blender,c,docker,flask,git,github,postgres,postman,mysql,aiscript,anaconda&perline=7)](https://skillicons.dev)
  
-💫 My GitHub Stats 
-----------------------------
+## 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=DEterMinat&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEterMinat&layout=compact&langs_count=6&theme=react&hide_border=true&bg_color=0D1117" height="150" alt="languages graph" />
+</div>
+
+---
 
 <p align="center">
-  <a href="https://github.com/DEterMinat"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEterMinat&layout=compact&langs_count=10&count_private=true&show_icons=true&title_color=ffffff&text_color=ffffff&bg_color=181824""/></a>
+  <i>"Data is the new oil."</i>
+  <br>
+  <b>Thank you for visiting my profile! 🫰🏻</b>
 </p>
-
-<h1></h1>
-<p align="center"><a>𝙏𝙝𝙖𝙣𝙠 𝙮𝙤𝙪 𝙛𝙤𝙧 𝙫𝙞𝙨𝙞𝙩𝙞𝙣𝙜 𝙢𝙮 𝙜𝙞𝙩𝙝𝙪𝙗.🫰🏻<a></p>
