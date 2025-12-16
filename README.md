@@ -23,10 +23,10 @@
       </p>
     </td>
 
-    <td width="50%" valign="top">
+  <td width="50%" valign="top">
       <h2 align="center">⚙️ The Tech Arsenal ⚙️</h2>
       
-      <div align="center">
+  <div align="center">
         <table>
             <tr>
                 <td align="center"><b>Languages</b></td>
@@ -41,16 +41,16 @@
         </table>
       </div>
 
-      <br/>
+  <br/>
       
-      <h3 align="center">🚀 Active Crusades (Projects)</h3>
+  <h3 align="center">🚀 Active Crusades (Projects)</h3>
       <ul>
         <li>🤟 <b>Project Smart Sign:</b> AI Sign Language Translation</li>
         <li>🌱 <b>EcoGradian:</b> Environmental Tech Solution</li>
         <li>🕹️ <b>AI Motion Controller:</b> Roblox Game Integration</li>
       </ul>
 
-      <div align="center">
+  <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=DEterMinat&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700" width="100%" />
       </div>
     </td>
