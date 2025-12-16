@@ -115,15 +115,17 @@
 </table>
 
 <!-- BOTTOM SECTION: SNAKE & STREAK -->
+<!-- BOTTOM SECTION: STABLE VERSION -->
 <div align="center">
   <h3>⚡ Engineering Log (Activity)</h3>
-  <!-- STREAK STATS -->
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEterMinat&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=FFD700&currStreakLabel=FFD700" width="80%" />
+  
+  <!-- STREAK STATS (ใช้ Server สำรอง Demolab แทน Heroku ที่ชอบล่ม) -->
+  <img src="https://streak-stats.demolab.com/?user=DEterMinat&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=FFD700&currStreakLabel=FFD700" width="80%" />
   
   <br/><br/>
   
-  <!-- SNAKE GAME (กินจุดเขียว) -->
-  <img src="https://github-readme-snake.vercel.app/api?username=DEterMinat&theme=dark&bg_color=0D1117&color_snake=FFD700&color_dots=1A202C" width="100%" alt="snake"/>
+  <!-- ACTIVITY GRAPH (ใช้แทนงู เพราะเสถียรกว่ามาก ไม่ต้องรัน Action) -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEterMinat&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
 <br/>
