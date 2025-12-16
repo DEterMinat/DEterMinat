@@ -36,8 +36,7 @@
     <!-- RIGHT COLUMN: ARSENAL & STATS -->
    <td width="55%" valign="top">
       <h2 align="center">⚙️ The Tech Arsenal ⚙️</h2>
-      
-      <!-- TECH STACK TABLE -->
+
    <table width="100%">
         <tr>
            <td width="30%"><b>💻 Frontend</b></td>
@@ -79,8 +78,7 @@
 
    <br/>
       
-      <!-- ACTIVE PROJECTS (Hyperlinked) -->
-      <!-- อย่าลืมแก้ Link ตรง href="#" ให้เป็น Link ของ Repository จริงๆ -->
+
    <h3 align="center">🚀 Active Crusades (Projects)</h3>
       <table width="100%" border="0">
         <tr>
@@ -105,7 +103,7 @@
         </tr>
       </table>
 
-      <!-- STATS -->
+
    <div align="center">
         <br/>
         <img src="https://github-readme-stats.vercel.app/api?username=DEterMinat&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700" width="100%" />
@@ -114,7 +112,6 @@
   </tr>
 </table>
 
-<!-- BOTTOM SECTION: SAFE MODE (STABLE) -->
 <div align="center">
   <h3>⚡ Engineering Log (System Status)</h3>
   
