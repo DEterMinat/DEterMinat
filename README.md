@@ -114,26 +114,27 @@
   </tr>
 </table>
 
-<!-- BOTTOM SECTION: STABLE & ROBUST VERSION -->
+<!-- BOTTOM SECTION: SAFE MODE (STABLE) -->
 <div align="center">
-  <h3>⚡ Engineering Log (Activity)</h3>
+  <h3>⚡ Engineering Log (System Status)</h3>
   
-  <!-- TROPHY CASE: โชว์ถ้วยรางวัลความสำเร็จ (เสถียรกว่า Streak มาก) -->
-  <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=DEterMinat&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" width="100%" />
-  </a>
+  <!-- ใช้ Badge แทนกราฟ รับรองว่าขึ้น 100% ไม่ Error -->
+  <p>
+    <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-success?style=for-the-badge&logo=github&logoColor=white&color=0D1117"/>
+    <br/>
+    <img src="https://img.shields.io/github/followers/DEterMinat?style=for-the-badge&color=FFD700&labelColor=000000&label=ACOLYTES%20(Followers)"/>
+    <img src="https://img.shields.io/github/stars/DEterMinat?style=for-the-badge&color=FFD700&labelColor=000000&label=GLORY%20(Stars)"/>
+  </p>
   
-  <br/><br/>
-  
-  <!-- ACTIVITY GRAPH: กราฟคลื่นหัวใจ (ใช้ Server Vercel เสถียรสุด ณ ตอนนี้) -->
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEterMinat&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&hide_border=true" width="100%" />
-</div>
+  <!-- แสดงภาษาที่ใช้เขียนบ่อยที่สุด -->
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEterMinat&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700" height="140" />
+  </p>
 
-<br/>
-
-<!-- FOOTER -->
-<div align="center">
+  <br/>
+  
+  <!-- Banner ปิดท้ายเท่ๆ -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
   <p style="font-size: 18px;"><i>"From the moment I understood the weakness of my flesh, <br/>it disgusted me. I craved the strength and certainty of steel (and code)."</i></p>
   <b>– Adeptus Mechanicus / Tanakit [Diwjiw]</b>
-</div>>
+</div>
