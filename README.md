@@ -114,17 +114,18 @@
   </tr>
 </table>
 
-<!-- BOTTOM SECTION: SNAKE & STREAK -->
-<!-- BOTTOM SECTION: STABLE VERSION -->
+<!-- BOTTOM SECTION: STABLE & ROBUST VERSION -->
 <div align="center">
   <h3>⚡ Engineering Log (Activity)</h3>
   
-  <!-- STREAK STATS (ใช้ Server สำรอง Demolab แทน Heroku ที่ชอบล่ม) -->
-  <img src="https://streak-stats.demolab.com/?user=DEterMinat&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=FFD700&currStreakLabel=FFD700" width="80%" />
+  <!-- TROPHY CASE: โชว์ถ้วยรางวัลความสำเร็จ (เสถียรกว่า Streak มาก) -->
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=DEterMinat&theme=darkhub&no-frame=true&margin-w=15&row=1&column=7" width="100%" />
+  </a>
   
   <br/><br/>
   
-  <!-- ACTIVITY GRAPH (ใช้แทนงู เพราะเสถียรกว่ามาก ไม่ต้องรัน Action) -->
+  <!-- ACTIVITY GRAPH: กราฟคลื่นหัวใจ (ใช้ Server Vercel เสถียรสุด ณ ตอนนี้) -->
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=DEterMinat&bg_color=0D1117&color=FFD700&line=FFD700&point=FFFFFF&hide_border=true" width="100%" />
 </div>
 
@@ -135,4 +136,4 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
   <p style="font-size: 18px;"><i>"From the moment I understood the weakness of my flesh, <br/>it disgusted me. I craved the strength and certainty of steel (and code)."</i></p>
   <b>– Adeptus Mechanicus / Tanakit [Diwjiw]</b>
-</div>
+</div>>
