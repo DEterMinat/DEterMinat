@@ -1,9 +1,12 @@
+<!-- HEADER START -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0f0f0f&height=230&section=header&text=TANAKIT%20[DIWJIW]&fontSize=60&fontColor=FFD700&fontAlign=50&desc=DATA%20ENGINEER%20INITIATE%20//%20KASETSART%20UNIVERSITY&descAlign=50&descSize=20" width="100%" />
 </div>
 
+<!-- CANVAS LAYOUT START -->
 <table align="center" width="100%" border="0">
   <tr>
+    <!-- LEFT COLUMN: IDENTITY & WHK40K -->
     <td width="45%" valign="top">
       <h2 align="center">⚜️ Identity & Allegiance ⚜️</h2>
       <div align="center">
@@ -16,17 +19,26 @@
         <b>📡 Transmission:</b><br/>
         "Greetings. I am a 3rd Year Student at <b>Kasetsart University</b>. My mission is to bridge the gap between human intent and machine logic through <b>AI, Data Engineering & Automation</b>."
       </blockquote>
-      <p align="center">
+      
+      <!-- CONTACT SECTION -->
+  <p align="center">
         <a href="mailto:tanakitsiriteerapan@gmail.com">
-           <img src="https://img.shields.io/badge/VOX--CHANNEL-tanakitsiriteerapan@gmail.com-000000?style=for-the-badge&logo=gmail&logoColor=red&labelColor=1a1a1a" />
+           <img src="https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+        </a>
+        &nbsp;
+        <!-- อย่าลืมแก้ Link LinkedIn ตรงนี้ -->
+        <a href="https://www.linkedin.com/in/ใส่_LINK_LINKEDIN_ของนาย/">
+           <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
         </a>
       </p>
     </td>
 
-  <td width="55%" valign="top">
+    <!-- RIGHT COLUMN: ARSENAL & STATS -->
+   <td width="55%" valign="top">
       <h2 align="center">⚙️ The Tech Arsenal ⚙️</h2>
       
-  <table width="100%">
+      <!-- TECH STACK TABLE -->
+   <table width="100%">
         <tr>
            <td width="30%"><b>💻 Frontend</b></td>
            <td><img src="https://skillicons.dev/icons?i=react" height="25"/></td>
@@ -65,30 +77,58 @@
         </tr>
       </table>
 
-  <br/>
+   <br/>
       
-  <h3 align="center">🚀 Active Crusades (Projects)</h3>
-      <ul>
-        <li>🤟 <b>Project Smart Sign:</b> AI Sign Language Translation</li>
-        <li>🌱 <b>EcoGradian:</b> Environmental Tech Solution</li>
-        <li>🕹️ <b>AI Motion Controller:</b> Roblox Game Integration</li>
-        <li>🗑️ <b>Trashy:</b> Emotional Release App</li>
-      </ul>
+      <!-- ACTIVE PROJECTS (Hyperlinked) -->
+      <!-- อย่าลืมแก้ Link ตรง href="#" ให้เป็น Link ของ Repository จริงๆ -->
+   <h3 align="center">🚀 Active Crusades (Projects)</h3>
+      <table width="100%" border="0">
+        <tr>
+            <td width="50%">
+            <b>🤟 <a href="ใส่_LINK_GITHUB_ของนาย/Project-Smart-Sign">Project Smart Sign</a></b>
+            <br/>↳ <i>AI Sign Language Translation</i>
+            </td>
+            <td width="50%">
+            <b>🌱 <a href="ใส่_LINK_GITHUB_ของนาย/EcoGradian">EcoGradian</a></b>
+            <br/>↳ <i>Environmental Tech Solution</i>
+            </td>
+        </tr>
+        <tr>
+            <td>
+            <b>🕹️ <a href="ใส่_LINK_GITHUB_ของนาย/AI-Motion-Controller">AI Motion Controller</a></b>
+            <br/>↳ <i>Roblox Game Integration</i>
+            </td>
+            <td>
+            <b>🗑️ <a href="ใส่_LINK_GITHUB_ของนาย/Trashy">Trashy</a></b>
+            <br/>↳ <i>Emotional Release App</i>
+            </td>
+        </tr>
+      </table>
 
-  <div align="center">
+      <!-- STATS -->
+   <div align="center">
+        <br/>
         <img src="https://github-readme-stats.vercel.app/api?username=DEterMinat&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700" width="100%" />
       </div>
     </td>
   </tr>
 </table>
 
+<!-- BOTTOM SECTION: SNAKE & STREAK -->
 <div align="center">
   <h3>⚡ Engineering Log (Activity)</h3>
+  <!-- STREAK STATS -->
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=DEterMinat&theme=tokyonight&hide_border=true&bg_color=0D1117&ring=FFD700&currStreakLabel=FFD700" width="80%" />
+  
+  <br/><br/>
+  
+  <!-- SNAKE GAME (กินจุดเขียว) -->
+  <img src="https://github-readme-snake.vercel.app/api?username=DEterMinat&theme=dark&bg_color=0D1117&color_snake=FFD700&color_dots=1A202C" width="100%" alt="snake"/>
 </div>
 
 <br/>
 
+<!-- FOOTER -->
 <div align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
   <p style="font-size: 18px;"><i>"From the moment I understood the weakness of my flesh, <br/>it disgusted me. I craved the strength and certainty of steel (and code)."</i></p>
