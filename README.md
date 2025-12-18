@@ -4,51 +4,56 @@
 </div>
 
 <!-- CANVAS LAYOUT START -->
-<table align="center" width="100%" border="0">
+<table align="center" width="100%" border="0" cellspacing="0" cellpadding="0">
   <tr>
     <!-- LEFT COLUMN: IDENTITY & WHK40K -->
-    <td width="45%" valign="top">
+    <td width="40%" valign="top">
       <h2 align="center">⚜️ Identity & Allegiance ⚜️</h2>
       <div align="center">
+        <!-- Warhammer 40k GIF -->
         <img src="https://media1.tenor.com/m/qd3miPXfL5QAAAAC/warhammer-40k.gif" width="95%" style="border-radius: 10px; border: 2px solid #FFD700;" />
         <br/><br/>
-        <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=20&pause=1000&color=FFD700&center=true&vCenter=true&width=400&lines=For+The+Emperor!;Data+is+the+new+Ammunition;AI+%26+Automation+Specialist;3rd+Year+Student+%40+KU" alt="Typing SVG" />
+        <!-- Typing SVG -->
+        <img src="https://readme-typing-svg.herokuapp.com?font=Cinzel&weight=600&size=18&pause=1000&color=FFD700&center=true&vCenter=true&width=350&lines=For+The+Emperor!;Data+is+the+new+Ammunition;AI+%26+Automation+Specialist;3rd+Year+Student+%40+KU" alt="Typing SVG" />
       </div>
       <br/>
-      <blockquote>
-        <b>📡 Transmission:</b><br/>
+      <div align="center" style="font-family: monospace; color: #ccc;">
+        <i>
         "Greetings. I am a 3rd Year Student at <b>Kasetsart University</b>. My mission is to bridge the gap between human intent and machine logic through <b>AI, Data Engineering & Automation</b>."
-      </blockquote>
+        </i>
+      </div>
       
+      <br/><br/>
+
       <!-- CONTACT SECTION -->
-  <p align="center">
-        <a href="mailto:tanakitsiriteerapan@gmail.com">
-           <img src="https://img.shields.io/badge/Gmail-Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-        </a>
-        &nbsp;
-        <!-- อย่าลืมแก้ Link LinkedIn ตรงนี้ -->
-        <a href="https://www.linkedin.com/in/ใส่_LINK_LINKEDIN_ของนาย/">
-           <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-        </a>
-      </p>
+      <div align="center">
+         <a href="mailto:tanakitsiriteerapan@gmail.com">
+            <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
+         </a>
+         <a href="https://www.linkedin.com/in/ใส่_LINK_LINKEDIN_ของนาย/">
+            <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="30" />
+         </a>
+      </div>
     </td>
 
-    <!-- RIGHT COLUMN: ARSENAL & STATS -->
+    <!-- SEPARATOR COLUMN (OPTIONAL, using padding instead) -->
+    <td width="2%"></td>
 
-   <td width="55%" valign="top">
+    <!-- RIGHT COLUMN: ARSENAL & STATS -->
+    <td width="58%" valign="top">
       <h2 align="center">⚙️ The Tech Arsenal ⚙️</h2>
 
-   <table width="100%">
+      <table width="100%" border="0">
         <tr>
-           <td width="30%"><b>💻 Frontend</b></td>
-           <td><img src="https://skillicons.dev/icons?i=react" height="25"/></td>
+           <td width="25%"><b>💻 Clients</b></td>
+           <td><img src="https://skillicons.dev/icons?i=react,flutter,html,css" height="25"/></td>
         </tr>
         <tr>
-           <td><b>🔌 Backend</b></td>
-           <td><img src="https://skillicons.dev/icons?i=fastapi" height="25"/></td>
+           <td><b>🔌 Server</b></td>
+           <td><img src="https://skillicons.dev/icons?i=fastapi,nodejs,express" height="25"/></td>
         </tr>
         <tr>
-           <td><b>🗄️ Database</b></td>
+           <td><b>🗄️ Data</b></td>
            <td><img src="https://skillicons.dev/icons?i=mysql,postgres,mongodb,supabase,firebase" height="25"/></td>
         </tr>
         <tr>
@@ -56,89 +61,108 @@
            <td><img src="https://skillicons.dev/icons?i=docker,git,githubactions,aws,azure" height="25"/></td>
         </tr>
         <tr>
-           <td><b>🤖 AI Dev</b></td>
+           <td><b>🤖 AI/ML</b></td>
            <td>
              <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv" height="25"/>
              <br/>
-             <img src="https://img.shields.io/badge/AI-LLM-blue?style=flat-square&logo=openai&logoColor=white&color=000000"/>
-             <img src="https://img.shields.io/badge/AI-Agents-blue?style=flat-square&logo=robotframework&logoColor=white&color=000000"/>
+             <img src="https://img.shields.io/badge/LLM-OpenAI-412991?style=flat-square&logo=openai&logoColor=white"/>
+             <img src="https://img.shields.io/badge/Agents-Auto-FF6C37?style=flat-square&logo=robotframework&logoColor=white"/>
            </td>
         </tr>
         <tr>
-           <td><b>🔧 Data Eng</b></td>
+           <td><b>🔧 Pipeline</b></td>
            <td>
-             <img src="https://img.shields.io/badge/Data-Airflow-blue?style=flat-square&logo=apacheairflow&logoColor=white&color=000000"/>
-             <img src="https://img.shields.io/badge/Auto-n8n-blue?style=flat-square&logo=n8n&logoColor=white&color=FF6C37"/>
+             <img src="https://img.shields.io/badge/Airflow-Apache-017CEE?style=flat-square&logo=apacheairflow&logoColor=white"/>
+             <img src="https://img.shields.io/badge/n8n-Automation-FF6C37?style=flat-square&logo=n8n&logoColor=white"/>
            </td>
-        </tr>
-        <tr>
-           <td><b>📱 Mobile</b></td>
-           <td><img src="https://skillicons.dev/icons?i=flutter" height="25"/></td>
         </tr>
       </table>
 
-   <br/>
+      <br/>
 
-
-   <h3 align="center">🚀 Active Crusades (Projects)</h3>
+      <h3 align="center">🚀 Active Crusades</h3>
       <table width="100%" border="0">
         <tr>
-            <td width="50%">
-            <b>🤟 <a href="ใส่_LINK_GITHUB_ของนาย/Project-Smart-Sign">Project Smart Sign</a></b>
-            <br/>↳ <i>AI Sign Language Translation</i>
+            <!-- Project 1 -->
+            <td width="50%" valign="top">
+            <h4><a href="ใส่_LINK_GITHUB_ของนาย/Project-Smart-Sign">🤟 Project Smart Sign</a></h4>
+            <img src="https://img.shields.io/badge/AI-Sign_Translation-blue?style=flat-square" /><br/>
+            Real-time sign language interpretation system.
             </td>
-            <td width="50%">
-            <b>🌱 <a href="ใส่_LINK_GITHUB_ของนาย/EcoGradian">EcoGradian</a></b>
-            <br/>↳ <i>Environmental Tech Solution</i>
+            <!-- Project 2 -->
+            <td width="50%" valign="top">
+            <h4><a href="ใส่_LINK_GITHUB_ของนาย/EcoGradian">🌱 EcoGradian</a></h4>
+            <img src="https://img.shields.io/badge/Tech-Environment-green?style=flat-square" /><br/>
+            Sustainable tech solution for monitoring.
             </td>
         </tr>
         <tr>
-            <td>
-            <b>🕹️ <a href="ใส่_LINK_GITHUB_ของนาย/AI-Motion-Controller">AI Motion Controller</a></b>
-            <br/>↳ <i>Roblox Game Integration</i>
+            <!-- Project 3 -->
+            <td valign="top">
+            <h4><a href="ใส่_LINK_GITHUB_ของนาย/AI-Motion-Controller">🕹️ AI Motion</a></h4>
+            <img src="https://img.shields.io/badge/Game-Roblox_Integration-red?style=flat-square" /><br/>
+            Body tracking for gaming controls.
             </td>
-            <td>
-            <b>🗑️ <a href="ใส่_LINK_GITHUB_ของนาย/Trashy">Trashy</a></b>
-            <br/>↳ <i>Emotional Release App</i>
+            <!-- Project 4 -->
+            <td valign="top">
+            <h4><a href="ใส่_LINK_GITHUB_ของนาย/Trashy">🗑️ Trashy</a></h4>
+            <img src="https://img.shields.io/badge/App-Emotional_Release-purple?style=flat-square" /><br/>
+            Digital bin for your digital stress.
             </td>
         </tr>
       </table>
 
-  <br/>
-    <h3 align="center">🏆 Hall of Glory (Competitions)</h3>
-    <div align="center">
-      <img src="images/NSC_IMAGE.png" width="45%" style="border-radius: 10px; margin: 5px;" />
-      <img src="images/EEC_IMAGE.png" width="45%" style="border-radius: 10px; margin: 5px;" />
-    </div>
+      <br/>
 
-   <div align="center">
-        <br/>
+      <h3 align="center">🏆 Hall of Glory</h3>
+      <!-- IMAGE GRID START -->
+      <table width="100%" border="0" cellspacing="5">
+          <tr>
+            <td align="center" width="50%">
+                <!-- FORCING HEIGHT TO 200px to ensure equality -->
+                <img src="images/NSC_IMAGE.png" height="200" style="border-radius: 8px; object-fit: cover;" />
+                <br/><b>NSC Competition</b>
+            </td>
+            <td align="center" width="50%">
+                <!-- FORCING HEIGHT TO 200px to ensure equality -->
+                <img src="images/EEC_IMAGE.png" height="200" style="border-radius: 8px; object-fit: cover;" />
+                <br/><b>EEC Hackathon</b>
+            </td>
+          </tr>
+      </table>
+      <!-- IMAGE GRID END -->
+
+      <br/>
+      <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=DEterMinat&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700" width="100%" />
       </div>
+
     </td>
+
   </tr>
 </table>
 
+<!-- FOOTER -->
 <div align="center">
-  <h3>⚡ Engineering Log (System Status)</h3>
+  <br/>
+  <h3>⚡ Engineering Log</h3>
   
-  <!-- ใช้ Badge แทนกราฟ รับรองว่าขึ้น 100% ไม่ Error -->
   <p>
-    <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-success?style=for-the-badge&logo=github&logoColor=white&color=0D1117"/>
+    <img src="https://img.shields.io/badge/SYSTEM_STATUS-OPERATIONAL-success?style=for-the-badge&logo=instatus&logoColor=white&color=0D1117"/>
     <br/>
-    <img src="https://img.shields.io/github/followers/DEterMinat?style=for-the-badge&color=FFD700&labelColor=000000&label=ACOLYTES%20(Followers)"/>
-    <img src="https://img.shields.io/github/stars/DEterMinat?style=for-the-badge&color=FFD700&labelColor=000000&label=GLORY%20(Stars)"/>
+    <img src="https://img.shields.io/github/followers/DEterMinat?style=for-the-badge&color=FFD700&labelColor=000000&label=ACOLYTES"/>
+    <img src="https://img.shields.io/github/stars/DEterMinat?style=for-the-badge&color=FFD700&labelColor=000000&label=GLORY"/>
   </p>
   
-  <!-- แสดงภาษาที่ใช้เขียนบ่อยที่สุด -->
   <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEterMinat&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700" height="140" />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=DEterMinat&layout=compact&langs_count=6&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700" height="130" />
   </p>
 
   <br/>
-  
-  <!-- Banner ปิดท้ายเท่ๆ -->
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=80&section=footer" width="100%"/>
-  <p style="font-size: 18px;"><i>"From the moment I understood the weakness of my flesh, <br/>it disgusted me. I craved the strength and certainty of steel (and code)."</i></p>
-  <b>– Adeptus Mechanicus / Tanakit [Diwjiw]</b>
+  <p style="font-family: 'Cinzel', serif; font-size: 16px;">
+    <i>"From the moment I understood the weakness of my flesh, strict typing saved me."</i>
+    <br/>
+    <b>– Adeptus Mechanicus / Tanakit [Diwjiw]</b>
+  </p>
 </div>
