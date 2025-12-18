@@ -23,10 +23,10 @@
         </i>
       </div>
       
-      <br/><br/>
+  <br/><br/>
 
       <!-- CONTACT SECTION -->
-      <div align="center">
+  <div align="center">
          <a href="mailto:tanakitsiriteerapan@gmail.com">
             <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" height="30" />
          </a>
@@ -37,13 +37,13 @@
     </td>
 
     <!-- SEPARATOR COLUMN (OPTIONAL, using padding instead) -->
-    <td width="2%"></td>
+  <td width="2%"></td>
 
     <!-- RIGHT COLUMN: ARSENAL & STATS -->
-    <td width="58%" valign="top">
+  <td width="58%" valign="top">
       <h2 align="center">⚙️ The Tech Arsenal ⚙️</h2>
 
-      <table width="100%" border="0">
+  <table width="100%" border="0">
         <tr>
            <td width="25%"><b>💻 Clients</b></td>
            <td><img src="https://skillicons.dev/icons?i=react,flutter,html,css" height="25"/></td>
@@ -78,9 +78,9 @@
         </tr>
       </table>
 
-      <br/>
+  <br/>
 
-      <h3 align="center">🚀 Active Crusades</h3>
+  <h3 align="center">🚀 Active Crusades</h3>
       <table width="100%" border="0">
         <tr>
             <!-- Project 1 -->
@@ -112,9 +112,9 @@
         </tr>
       </table>
 
-      <br/>
+  <br/>
 
-      <h3 align="center">🏆 Hall of Glory</h3>
+  <h3 align="center">🏆 Hall of Glory</h3>
       <!-- IMAGE GRID START -->
       <table width="100%" border="0" cellspacing="5">
           <tr>
@@ -132,12 +132,12 @@
       </table>
       <!-- IMAGE GRID END -->
 
-      <br/>
+  <br/>
       <div align="center">
         <img src="https://github-readme-stats.vercel.app/api?username=DEterMinat&show_icons=true&count_private=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=FFD700" width="100%" />
       </div>
 
-    </td>
+  </td>
 
   </tr>
 </table>
