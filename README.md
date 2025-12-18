@@ -104,7 +104,7 @@
         </tr>
       </table>
 
-    <br/>
+  <br/>
     <h3 align="center">🏆 Hall of Glory (Competitions)</h3>
     <div align="center">
       <img src="images/NSC_IMAGE.png" width="45%" style="border-radius: 10px; margin: 5px;" />
