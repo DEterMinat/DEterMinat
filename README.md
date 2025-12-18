@@ -33,20 +33,40 @@
 
 ---
 
-### ⚙️ The Tech Arsenal
+---
+
+### ⚙️ The Strategic Arsenal
+
 <div align="center">
   <img src="https://skillicons.dev/icons?i=py,pytorch,tensorflow,opencv,fastapi,nodejs,mysql,postgres,mongodb,docker,aws,git" width="100%" />
 </div>
 
 <br/>
 
-| Category | Tools & Technologies |
-| :--- | :--- |
-| **💻 Frontend** | `React`, `Flutter`, `HTML/CSS` |
-| **🔌 Backend** | `FastAPI`, `Node.js`, `Express` |
-| **🗄️ Database** | `PostgreSQL`, `MongoDB`, `Supabase`, `Firebase` |
-| **🏗️ DevOps** | `Docker`, `GitHub Actions`, `AWS`, `Azure` |
-| **🤖 AI / Data** | `PyTorch`, `TensorFlow`, `Airflow`, `n8n` |
+<table width="100%" border="0">
+  <tr>
+    <td width="50%" valign="top">
+      <h4 align="center">🛠️ Technical Expertise</h4>
+      <table width="100%">
+        <tr><td><b>💻 Frontend</b></td><td><code>React</code>, <code>Flutter</code></td></tr>
+        <tr><td><b>🔌 Backend</b></td><td><code>FastAPI</code>, <code>Node.js</code></td></tr>
+        <tr><td><b>🗄️ Database</b></td><td><code>PostgreSQL</code>, <code>MongoDB</code></td></tr>
+        <tr><td><b>🏗️ DevOps</b></td><td><code>Docker</code>, <code>AWS</code>, <code>Git</code></td></tr>
+        <tr><td><b>🤖 AI/Data</b></td><td><code>PyTorch</code>, <code>Airflow</code>, <code>n8n</code></td></tr>
+      </table>
+    </td>
+    <td width="50%" valign="top">
+      <h4 align="center">🧠 Human Intelligence</h4>
+      <ul style="list-style-type: none; padding-left: 10px;">
+        <li>🤝 <b>Teamwork</b> - ร่วมงานทีมที่หลากหลายได้ดี</li>
+        <li>🔄 <b>Adaptability</b> - เรียนรู้ไว ปรับตัวได้ทุกสภาวะ</li>
+        <li>🧩 <b>Problem Solving</b> - วิเคราะห์และแก้ปัญหาเชิงรุก</li>
+        <li>🗣️ <b>Communication</b> - สื่อสารเทคนิคให้เข้าใจง่าย</li>
+        <li>⏱️ <b>Time Management</b> - จัดลำดับงานแม่นยำ ตรงเวลา</li>
+      </ul>
+    </td>
+  </tr>
+</table>
 
 ---
 
