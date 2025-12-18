@@ -34,6 +34,7 @@
     </td>
 
     <!-- RIGHT COLUMN: ARSENAL & STATS -->
+
    <td width="55%" valign="top">
       <h2 align="center">⚙️ The Tech Arsenal ⚙️</h2>
 
@@ -77,7 +78,7 @@
       </table>
 
    <br/>
-      
+
 
    <h3 align="center">🚀 Active Crusades (Projects)</h3>
       <table width="100%" border="0">
@@ -103,6 +104,12 @@
         </tr>
       </table>
 
+    <br/>
+    <h3 align="center">🏆 Hall of Glory (Competitions)</h3>
+    <div align="center">
+      <img src="images/NSC_IMAGE.png" width="45%" style="border-radius: 10px; margin: 5px;" />
+      <img src="images/EEC_IMAGE.png" width="45%" style="border-radius: 10px; margin: 5px;" />
+    </div>
 
    <div align="center">
         <br/>
